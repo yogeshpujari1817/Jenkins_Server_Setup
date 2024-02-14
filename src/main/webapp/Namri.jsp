@@ -1,3 +1,7 @@
+<html>
+<body>
+<h2>Hello Namrata,!</h2>
+
 <h3>public class Namri {
     public static void main(String[] args) {
         String recipientName = "Namrata";
@@ -7,3 +11,14 @@
     }
 }
 </h3>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
